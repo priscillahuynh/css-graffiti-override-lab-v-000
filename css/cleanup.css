@@ -3,18 +3,18 @@
   display:none;
 }
 
-#wall #tag-2 {
+#wall div#tag-2 {
   display: none;
 }
 
-#wall #tag-3.slick.wicked {
+#wall div#tag-3.slick.wicked {
   background: none;
 }
 
-#wall .parent #tag-4 {
+#wall div.parent div#tag-4 {
   background: none;
 }
 
-#wall .parent #tag-5.slick {
+#wall div.parent div#tag-5.slick {
   background: none;
 }
